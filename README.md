@@ -11,6 +11,9 @@
 ### [Operadores logicos](./OperadoresSentecias/operadoresLogicos.py)
 ### [Sentencia while](./OperadoresSentecias/sentenciaWhile.py)
 
+## Funciones en Python
+### [Funcion](./UsoDeFunciones/funcion.py)
+
 
 
 
