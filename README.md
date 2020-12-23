@@ -8,6 +8,7 @@
 ### [Condicional if](./OperadoresSentecias/condicionaIf.py)
 ### [Condicional if anidado](./OperadoresSentecias/ifAnidado.py)
 ### [Operadores relacionales](./OperadoresSentecias/operadoresRelacionales.py)
+### [Operadores logicos](./OperadoresSentecias/operadoresLogicos.py)
 
 
 
