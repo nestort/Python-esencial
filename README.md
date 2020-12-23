@@ -5,6 +5,7 @@
 
 ## Operadores y sentencias de control en Python
 ### [Operadores matemáticos](./OperadoresSentecias/operadoresMatematicos.py)
+### [Condicional IF](./OperadoresSentecias/condicionaIF.py)
 
 
 
