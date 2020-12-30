@@ -2,25 +2,25 @@
 # Una tupla es una secuencia finita de objetos inmutable.
 
 # Creación de tupla:
-values = (2, True, "Bossie", 23)
+tupleA = (2, True, "Bossie", 23)
 
 # Impresión del valor: 'Bossie'
-print(values[2])
+print(tupleA[2])
 
 # Recorrido de toda la tupla
 indexValue = 0  # la tuplas inician desde el valor cero
-while indexValue < len(values):
-    print("=>Inidice:", indexValue, "Valor:", values[indexValue])
+while indexValue < len(tupleA):
+    print("=>Inidice:", indexValue, "Valor:", tupleA[indexValue])
     indexValue = indexValue+1  # Incremento de indice
 
 # Recorrido de la tupla usando For
-for value in values:
+for value in tupleA:
     print(value)
 
 # Slicing(:) Porcion de la tupla
-print("Porcion de la posición 1 a la 3:\n", values[1:3])
-print("Porcion de la posición 0 a la 2:\n", values[:2])
-print("Porcion de la posición 2 al final:\n", values[2:])
+print("Porcion de la posición 1 a la 3:\n", tupleA[1:3])
+print("Porcion de la posición 0 a la 2:\n", tupleA[:2])
+print("Porcion de la posición 2 al final:\n", tupleA[2:])
 
 # Slicing en cadenas
 name = "Obi Wan Kenobi"
@@ -50,3 +50,19 @@ else:
 print("Porcion de la posición 4 a la 7:\n", joinList[4:7])
 print("Porcion de la posición 0 a la 7:\n", joinList[:7])
 print("Porcion de la posición 4 al final:\n", joinList[4:])
+
+# Indices negtaivos
+# Nos sirven para recorrer una tupla, cadena, lista, entre otros 
+# partiendo de la posicion inicial hacia la final 
+
+# Ultimo elemento de tupla
+print(tupleA[-1])
+
+# Pen-Ultimo elemento de cadena
+print(name[-2])
+
+# Ultimo elemento de lista
+print(listA[-1])
+
+
+
