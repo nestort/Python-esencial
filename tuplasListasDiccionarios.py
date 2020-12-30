@@ -64,5 +64,13 @@ print(name[-2])
 # Ultimo elemento de lista
 print(listA[-1])
 
+# Diccionarios
+# A diferencia de las tuplas y listas los diccionarios permiten manipular los indices
+
+#Creación de diccionario
+dictA={"Obi":"2","darthMaul":"9"}
+
+# Obtetener valor de 'darthMaul' del diccionario
+print("El valor de Darth Maul es:",dictA['darthMaul'])
 
 
