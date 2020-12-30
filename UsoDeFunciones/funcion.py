@@ -15,7 +15,6 @@ def getAge():
 def sumOfAge(a, b=0):
     return a+b
 
-
 # Uso de funcion simple
 eat()
 
