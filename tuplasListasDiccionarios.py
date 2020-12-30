@@ -39,3 +39,10 @@ listB = ['Darth', 'Maul', 1.78]
 # Concatenar o unir listA y listB
 joinList = listA+listB
 print(joinList)
+
+# Busqueda de elemento en lista usando 'if'
+if 'Darth' in joinList:
+    print("Se encontro 'Darth' en la lista")
+else:
+    print("No se encontro a 'Darth'")
+
