@@ -46,3 +46,7 @@ if 'Darth' in joinList:
 else:
     print("No se encontro a 'Darth'")
 
+# Slicing en lista
+print("Porcion de la posición 4 a la 7:\n", joinList[4:7])
+print("Porcion de la posición 0 a la 7:\n", joinList[:7])
+print("Porcion de la posición 4 al final:\n", joinList[4:])
