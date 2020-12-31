@@ -10,6 +10,7 @@
 ### [Funciones](./UsoDeFunciones/funcion.py)
 ### [Tuplas, Listas, Diccionarios](./tuplasListasDiccionarios.py)
 ### [Funciones del lenguaje](./funcionesLenguaje.py)
+### [Clase](./clase.py)
 
 
 
