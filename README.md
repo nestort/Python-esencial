@@ -8,6 +8,8 @@
 ### [Operadores logicos](./OperadoresSentecias/operadoresLogicos.py)
 ### [Sentencia while](./OperadoresSentecias/sentenciaWhile.py)
 ### [Funciones](./UsoDeFunciones/funcion.py)
+### [Tuplas, Listas, Diccionarios](./tuplasListasDiccionarios.py)
+### [Funciones del lenguaje](./funcionesLenguaje.py)
 
 
 
