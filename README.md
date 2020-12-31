@@ -11,6 +11,7 @@
 ### [Tuplas, Listas, Diccionarios](./tuplasListasDiccionarios.py)
 ### [Funciones del lenguaje](./funcionesLenguaje.py)
 ### [Clase](./clase.py)
+### [Herencia](./herencia.py)
 
 
 
